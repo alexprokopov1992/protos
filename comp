@@ -19,3 +19,4 @@ CONFIG_PATH=./path/to/config/file.yaml sso
 sso --config=./path...
 go run cmd/sso/main.go --config=./config/local.yaml
 
+test
